@@ -9,12 +9,7 @@ Repo: https://github.com/ucsb-cs156-w22/jpa02-Jacqueskim
 
 On Heroku: https://jpa02-skim945.herokuapp.com/
 
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
-
-On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-cgaucho
-There is a proble on Codecov. Professor it's okay not to do Codecov right now.
+On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-Jacqueskim
 
 # About this repo
 
